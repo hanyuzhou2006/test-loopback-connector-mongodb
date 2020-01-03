@@ -1,0 +1,15 @@
+{
+  "name": "test-loopback-connector-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loopback-connector-mongodb": "^5.2.1",
+    "loopback-datasource-juggler": "^4.17.0"
+  }
+}
